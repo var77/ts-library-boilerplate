@@ -1,0 +1,9 @@
+dist
+coverage
+**/.git
+**/.github
+**/.husky
+**/.svn
+**/.hg
+**/node_modules
+*lock.json
